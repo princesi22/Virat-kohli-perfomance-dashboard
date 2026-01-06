@@ -47,7 +47,7 @@ This project is designed to demonstrate **data analytics, visualization, and sto
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview]https://github.com/princesi22/Virat-kohli-perfomance-dashboard/blob/main/Screenshot%202026-01-06%20221853.png
+![Virat Kohli Power BI Dashboard](Screenshot%202026-01-06%20221853.png)
 
 > 📌 *Note:* GitHub cannot display `.pbix` files directly. Please download the file to view the interactive dashboard.
 
